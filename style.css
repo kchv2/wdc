@@ -1,0 +1,9 @@
+h1{
+    color: black;
+    font-weight: bold;
+    text-shadow: 2px 2px 8px #FF0000;
+}
+
+hr.new1 {
+  border-top: 1px solid red;
+}
